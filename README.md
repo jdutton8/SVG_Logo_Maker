@@ -9,6 +9,8 @@
 
  [Tests](#tests)
 
+ [License](#license)
+
  [Questions](#questions)
 
 ## Description
