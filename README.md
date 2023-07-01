@@ -14,10 +14,10 @@
  [Questions](#questions)
 
 ## Description
- This application is designed to make creating SVG logos quick and simple. There are three options for shapes for your logo: squares, triangles, and circles. The colors and the text are decided by the user from a series of prompts. The generated SVG file will be added into the output section of the repository for your use.
+ This application is designed to make creating SVG logos quick and simple. There are three options for shapes for your logo: squares, triangles, and circles. The colors and the text are decided by the user from a series of prompts. The generated SVG file will be added into the example folder of the repository for your use.
 
 ## Usage
- Start the program with the command node index.js. Answer all the prompts. For text and background color, you can enter either a color keyword like red, blue, or yellow, or you can enter a hexadecimal color value. For text on the logo, you can enter up to 3 characters.
+ Start the program with the command node index.js. Answer all the prompts. Find your generated logo in the example folder. 
 
 
 ## Installation
